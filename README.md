@@ -1,1 +1,1 @@
-# python-security-scripts
+Python Security Automation — Google Cybersecurity Certificate Labs
